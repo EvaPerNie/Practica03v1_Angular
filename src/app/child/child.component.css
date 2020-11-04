@@ -1,0 +1,19 @@
+#hijo{
+    position: relative;
+    left: 10%;
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    box-shadow: 5px 7px darkgray;
+}
+
+.color{
+    background-color: white;
+}
+
+.red{
+    background-color: red;
+}

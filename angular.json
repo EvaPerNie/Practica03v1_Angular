@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Practica03v01"
+    }
+  },
+  "defaultProject": "Practica03v01",
+  "cli": {
+    "analytics": false
+  }
 }
